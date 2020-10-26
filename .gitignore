@@ -133,3 +133,5 @@ dmypy.json
 
 .idea
 
+Extra.py
+.gitignore
